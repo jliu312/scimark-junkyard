@@ -1,0 +1,58 @@
+/usr/lib/jvm/java-11-openjdk-arm64/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/user/junkyard-benches/scimark-junkyard/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/user/junkyard-benches/scimark-junkyard/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SciMark 2.1.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/user/junkyard-benches/scimark-junkyard/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SciMark 2.1.1 API'
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+jnt.scimark2
+/home/user/junkyard-benches/scimark-junkyard/src/main/java = 1689813676340
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/type-search-index.zip = 1689815098125
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/package-search-index.js = 1689815098113
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/help-doc.html = 1689815098133
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/overview-tree.html = 1689815098101
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/stylesheet.css = 1689815098133
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/serialized-form.html = 1689815098085
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/deprecated-list.html = 1689815098133
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/index.html = 1689815098133
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/index-all.html = 1689815098125
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/allpackages-index.html = 1689815098129
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/element-list = 1689815098073
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/package-search-index.zip = 1689815098121
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/search.js = 1689815098137
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/allclasses-index.html = 1689815098129
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/constant-values.html = 1689815098085
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/member-search-index.zip = 1689815098125
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/allclasses.html = 1689815098133
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/member-search-index.js = 1689815098125
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/script.js = 1689815098137
+/home/user/junkyard-benches/scimark-junkyard/target/apidocs/type-search-index.js = 1689815098125
